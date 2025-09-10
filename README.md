@@ -1,5 +1,3 @@
-UNDER CONSTRUCTION 🍆
-
 <div align="center">
   <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3MydzFtbnVvZTc1NGJ4aDV6NHRqdHFxMnhsajBtZ3ltMTNzbWd5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sxZCZNYqdEMec/giphy.gif"  />
 </div>
